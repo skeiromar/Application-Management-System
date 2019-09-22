@@ -1,0 +1,20 @@
+#nav-bar {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #f8f9fa;
+  margin: 0;
+  padding: 15px;
+  border: 1px solid white;
+}
+
+#nav-bar > a {
+  background-color: rgb(64, 189, 64);
+  margin: 0 1em;
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  color: white;
+}
+
+#nav-bar > a:hover {
+  background: rgba(64, 189, 64,0.7);
+}

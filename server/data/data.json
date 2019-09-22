@@ -1,0 +1,682 @@
+{
+  "Admin": {
+    "1": {
+      "id": "1",
+      "username": "sauron",
+      "password": "saur1234",
+      "comments": [
+        1,
+        2,
+        424519,
+        157786,
+        522005,
+        821361,
+        995852,
+        291333,
+        327711,
+        599813,
+        317384,
+        54736,
+        409471,
+        260976,
+        347905,
+        635182,
+        497954
+      ]
+    },
+    "loggedIn": false
+  },
+  "Campaign": {
+    "1": {
+      "id": "1",
+      "name": "Inclusion Application Campaign",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "What is your favorite quote?",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "When were you born?",
+          "tagSpecifier": "input",
+          "tagType": "date"
+        },
+        {
+          "label": "Describe yourself in a paragraph?",
+          "tagSpecifier": "textarea",
+          "tagType": ""
+        }
+      ],
+      "submissions": [
+        1,
+        339948,
+        619395,
+        726908
+      ]
+    },
+    "311247": {
+      "id": 311247,
+      "name": "food campaign",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "pizza",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "pizza"
+        },
+        {
+          "label": "tacos",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "tacos"
+        },
+        {
+          "label": "burgers",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "burgers"
+        },
+        {
+          "label": "describe your favorite foods",
+          "tagSpecifier": "textarea",
+          "tagType": ""
+        }
+      ],
+      "submissions": [
+        53045
+      ]
+    },
+    "440852": {
+      "id": 440852,
+      "name": "other campaign",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "age?",
+          "tagSpecifier": "input",
+          "tagType": "date"
+        }
+      ],
+      "submissions": []
+    },
+    "530663": {
+      "id": 530663,
+      "name": "Random program",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Favorite quote",
+          "tagSpecifier": "textarea",
+          "tagType": ""
+        }
+      ],
+      "submissions": [
+        338840
+      ]
+    },
+    "561786": {
+      "id": 561786,
+      "name": "Inclusion Hire Program",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Tell us about yourself",
+          "tagSpecifier": "textarea",
+          "tagType": ""
+        },
+        {
+          "label": "How many years of experience do you have",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "What is your favorite language and why?",
+          "tagSpecifier": "textarea",
+          "tagType": ""
+        }
+      ],
+      "submissions": [
+        353012
+      ]
+    },
+    "632892": {
+      "id": 632892,
+      "name": "other other",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "other 1 ",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        }
+      ],
+      "submissions": []
+    },
+    "989434": {
+      "id": 989434,
+      "name": "dfdsfds",
+      "fields": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        },
+        {
+          "label": "werwer",
+          "tagSpecifier": "input",
+          "tagType": "text"
+        }
+      ],
+      "submissions": [
+        953144
+      ]
+    }
+  },
+  "Submission": {
+    "1": {
+      "id": "1",
+      "campaign_id": "1",
+      "name": "Muhamamd Omar",
+      "email": "omar@gmail.com",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "Muhammad Omar"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar@gmail.com"
+        },
+        {
+          "label": "What is your favorite quote?",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "The mind is its own place, and in itself, can make a heaven out of hell, a hell out of heaven."
+        },
+        {
+          "label": "When were you born?",
+          "tagSpecifier": "input",
+          "tagType": "date",
+          "content": "1998-2-3"
+        },
+        {
+          "label": "Describe yourself in a paragraph?",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "My name is Omar and ..."
+        }
+      ],
+      "status": "UNDER REVIEW",
+      "comments": [
+        1,
+        2,
+        424519,
+        157786,
+        522005,
+        821361,
+        995852,
+        291333,
+        327711,
+        599813,
+        317384,
+        54736,
+        497954
+      ]
+    },
+    "53045": {
+      "id": 53045,
+      "campaign_id": "311247",
+      "name": "Omar",
+      "email": "omar@gmail.com",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "Omar"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar@gmail.com"
+        },
+        {
+          "label": "pizza",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "pizza",
+          "content": "pizza"
+        },
+        {
+          "label": "tacos",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "tacos",
+          "content": "tacos"
+        },
+        {
+          "label": "burgers",
+          "tagSpecifier": "input",
+          "tagType": "checkbox",
+          "value": "burgers",
+          "content": "burgers"
+        },
+        {
+          "label": "describe your favorite foods",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "delicious"
+        }
+      ],
+      "status": "UNDER REVIEW",
+      "comments": [
+        409471
+      ]
+    },
+    "338840": {
+      "id": 338840,
+      "campaign_id": "530663",
+      "name": "adsaad",
+      "email": "asdsa",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "adsaad"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "asdsa"
+        },
+        {
+          "label": "Favorite quote",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": ""
+        }
+      ],
+      "status": "ACCEPTED",
+      "comments": []
+    },
+    "339948": {
+      "id": 339948,
+      "campaign_id": "1",
+      "name": "sada",
+      "email": "asdsa",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "sada"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "asdsa"
+        },
+        {
+          "label": "What is your favorite quote?",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "asdsad"
+        },
+        {
+          "label": "When were you born?",
+          "tagSpecifier": "input",
+          "tagType": "date",
+          "content": "2019-08-06"
+        },
+        {
+          "label": "Describe yourself in a paragraph?",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "asdsad"
+        }
+      ],
+      "status": "ACCEPTED",
+      "comments": []
+    },
+    "353012": {
+      "id": 353012,
+      "campaign_id": "561786",
+      "name": "Omar",
+      "email": "omar@gmail.com",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "Omar"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar@gmail.com"
+        },
+        {
+          "label": "Tell us about yourself",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "I am."
+        },
+        {
+          "label": "How many years of experience do you have",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "Math.infinity()"
+        },
+        {
+          "label": "What is your favorite language and why?",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "LISP"
+        }
+      ],
+      "status": "UNDER REVIEW",
+      "comments": [
+        260976
+      ]
+    },
+    "619395": {
+      "id": 619395,
+      "campaign_id": "1",
+      "name": "Omar22",
+      "email": "omar22@gmail.com",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "Omar22"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar22@gmail.com"
+        },
+        {
+          "label": "What is your favorite quote?",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "dsadaadad"
+        },
+        {
+          "label": "When were you born?",
+          "tagSpecifier": "input",
+          "tagType": "date",
+          "content": "2019-08-21"
+        },
+        {
+          "label": "Describe yourself in a paragraph?",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "dasdsadasdsad"
+        }
+      ],
+      "status": "DENIED",
+      "comments": []
+    },
+    "726908": {
+      "id": 726908,
+      "campaign_id": "1",
+      "name": "omar",
+      "email": "omar@gmail.com",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "omar@gmail.com"
+        },
+        {
+          "label": "What is your favorite quote?",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "do or do not, there's no try"
+        },
+        {
+          "label": "When were you born?",
+          "tagSpecifier": "input",
+          "tagType": "date",
+          "content": "1998-03-23"
+        },
+        {
+          "label": "Describe yourself in a paragraph?",
+          "tagSpecifier": "textarea",
+          "tagType": "",
+          "content": "something something"
+        }
+      ],
+      "status": "UNDER REVIEW",
+      "comments": [
+        347905,
+        635182
+      ]
+    },
+    "953144": {
+      "id": 953144,
+      "campaign_id": "989434",
+      "name": "rewrew",
+      "email": "weerwwer",
+      "content": [
+        {
+          "label": "Name",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "rewrew"
+        },
+        {
+          "label": "Email",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "weerwwer"
+        },
+        {
+          "label": "werwer",
+          "tagSpecifier": "input",
+          "tagType": "text",
+          "content": "werwe"
+        }
+      ],
+      "status": "NEW",
+      "comments": []
+    }
+  },
+  "Comment": {
+    "1": {
+      "id": "1",
+      "admin_id": "1",
+      "submission_id": "1",
+      "body": "this is alright",
+      "adminName": "sauron"
+    },
+    "2": {
+      "id": "2",
+      "admin_id": "1",
+      "submission_id": "1",
+      "body": "Could be better",
+      "adminName": "sauron"
+    },
+    "54736": {
+      "id": 54736,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "testtest",
+      "adminName": "sauron"
+    },
+    "157786": {
+      "id": 157786,
+      "admin_id": 1,
+      "submission_id": 1,
+      "body": "test test",
+      "adminName": "sauron"
+    },
+    "260976": {
+      "id": 260976,
+      "admin_id": 1,
+      "submission_id": "353012",
+      "body": "This guy is good"
+    },
+    "291333": {
+      "id": 291333,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "asdsada",
+      "adminName": "sauron"
+    },
+    "317384": {
+      "id": 317384,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "asdsada",
+      "adminName": "sauron"
+    },
+    "327711": {
+      "id": 327711,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "test ",
+      "adminName": "sauron"
+    },
+    "347905": {
+      "id": 347905,
+      "admin_id": 1,
+      "submission_id": "726908",
+      "body": "this is a cool response",
+      "adminName": "sauron"
+    },
+    "409471": {
+      "id": 409471,
+      "admin_id": 1,
+      "submission_id": "53045",
+      "body": "asdsada"
+    },
+    "424519": {
+      "id": 424519,
+      "admin_id": "1",
+      "submission_id": "1",
+      "body": "its above average",
+      "adminName": "sauron"
+    },
+    "497954": {
+      "id": 497954,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "sadaasdas"
+    },
+    "522005": {
+      "id": 522005,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "sadsa",
+      "adminName": "sauron"
+    },
+    "599813": {
+      "id": 599813,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "asdsa",
+      "adminName": "sauron"
+    },
+    "635182": {
+      "id": 635182,
+      "admin_id": 1,
+      "submission_id": "726908",
+      "body": "this is awesome",
+      "adminName": "sauron"
+    },
+    "821361": {
+      "id": 821361,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "asdsada",
+      "adminName": "sauron"
+    },
+    "995852": {
+      "id": 995852,
+      "admin_id": 1,
+      "submission_id": "1",
+      "body": "sadsad",
+      "adminName": "sauron"
+    }
+  }
+}
